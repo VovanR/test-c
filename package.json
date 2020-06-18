@@ -25,7 +25,7 @@
     "conventional-changelog-cli": "^2.0.31",
     "cz-conventional-changelog": "^3.1.0",
     "husky": "^4.2.3",
-    "mversion": "^1.13.0",
+    "mversion": "^2.0.0",
     "xo": "^0.28.0"
   },
   "peerDependencies": {
